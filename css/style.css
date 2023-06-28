@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	}
+	
+div{text-align:center;
+	
+}
+.business{
+	background-color:rgb(9, 19, 217);
+	margin:100px 500px 20px 500px;
+	padding :20px;
+	color:#ffff;
+	margin:auto;
+	
+}
+.sup{
+	color:rgb(9, 19, 217);
+	font-weight:bolder;
+	font-size:30px;
+}
+.month{
+	
+	line-height:2;
+}
+.super{
+		color:rgb(150, 147, 105);
+}
+.buy{
+		background-color:rgb(9, 19, 217);
+		padding:20px 40px 20px 40px;
+		margin:30px;
+		color:#ffff;
+		border-radius:10px;
+		margin:auto;
+}
+#santhosh{
+		width:30%;
+		border:2px solid #998d8d;
+		margin:auto;
+		margin-top:100px;
+}
+#siva
+{
+	padding:20px;
+	background-color:#ede4e4;
+	width:100%;
+	margin:auto;
+	
+	
+}
